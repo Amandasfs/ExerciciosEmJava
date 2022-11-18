@@ -15,14 +15,11 @@ public class Exercicio2 {
         while (x != 0 && y != 0) {
             if (x > 0 && y > 0) {
                 System.out.println("primeiro");
-            }
-            else if (x < 0 && y > 0) {
+            } else if (x < 0 && y > 0) {
                 System.out.println("segundo");
-            }
-            else if (x < 0 && y < 0) {
+            } else if (x < 0 && y < 0) {
                 System.out.println("terceiro");
-            }
-            else {
+            } else {
                 System.out.println("quarto");
             }
             x = sc.nextInt();
@@ -30,6 +27,5 @@ public class Exercicio2 {
         }
 
         sc.close();
-
     }
 }

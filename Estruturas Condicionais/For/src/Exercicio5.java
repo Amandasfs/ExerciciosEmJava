@@ -6,7 +6,19 @@ public class Exercicio5 {
                 "Lembrando que, por definição, fatorial de 0 é 1.");
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Insira o Número: ");
+        int n = sc.nextInt();
+        int fatorial = 1;
+        if (n == 0){
+            fatorial = 1;
+            System.out.println(fatorial);
+
+        }else {
+            for (int i = 1; i <= n; i++){
+                fatorial = fatorial * i;
+                System.out.println(fatorial);
+            }
+        }
         sc.close();
-        System.out.println("Hello world!");
     }
 }
