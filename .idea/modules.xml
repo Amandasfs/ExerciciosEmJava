@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/OrientacaoAObjetos/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/OrientacaoAObjetos/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrientacaoAObjetos/Student/Student.iml" filepath="$PROJECT_DIR$/OrientacaoAObjetos/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas Condicionais/WhileEdoWhile/WhileEdoWhile.iml" filepath="$PROJECT_DIR$/Estruturas Condicionais/WhileEdoWhile/WhileEdoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstrutoresThisSobrecargaEncapsulamento/src/src.iml" filepath="$PROJECT_DIR$/ConstrutoresThisSobrecargaEncapsulamento/src/src.iml" />
     </modules>
   </component>
 </project>
